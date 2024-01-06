@@ -1,6 +1,4 @@
 {
-  "name": "shopito-app",
-  "type": "module",
   "version": "1.0.0",
   "description": "#Lessons",
   "main": "server.js",
