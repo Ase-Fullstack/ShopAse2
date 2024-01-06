@@ -1,5 +1,5 @@
 {
-  "name": "shopito-app",
+  "name": "backend",
   "type": "module",
   "version": "1.0.0",
   "description": "#Lessons",
@@ -8,9 +8,6 @@
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "node backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-    /Users/asenake/Desktop/shopito-app/backend/frontend
-    /Users/asenake/Desktop/shopito-app/backend
-    /Users/asenake/Desktop/shopito-app/frontend
   },
   "keywords": [],
   "author": "",
